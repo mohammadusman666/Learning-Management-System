@@ -1,0 +1,62 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI';
+    background-color: #2980b9;
+}
+
+.login-box {
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+}
+
+.textbox h1 {
+    font-size: 36px;
+    margin-bottom: 50px;
+}
+
+.textbox {
+    padding: 10px;
+    overflow: hidden;
+}
+
+.select-field {
+    width: 88%;
+    padding: 10px;
+    border: 2px solid #2980b9;
+    border-radius: 5px;
+    outline: 0;
+}
+
+.input-field {
+    width: 80%;
+    padding: 10px;
+    border: 2px solid #2980b9;
+    border-radius: 5px;
+    outline: 0;
+}
+
+.textbox i {
+    padding-top: 10px;
+    width: 26px;
+    float: left;
+}
+
+.btn {
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    background-color: #2980b9;
+    padding: 10px;
+    font-size: 18px;
+    color: white;
+    margin-top: 10px;
+    text-decoration: none;
+}

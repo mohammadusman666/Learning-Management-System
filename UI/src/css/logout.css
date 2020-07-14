@@ -1,0 +1,48 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI';
+    background-color: #2980b9;
+}
+
+.container {
+    width: 80%;
+    margin: 0% auto;
+}
+
+header {
+    background-color: white;
+}
+
+header::after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+.logo {
+    height: 64px;
+    width: 64px;
+    padding: 8px;
+}
+
+nav {
+    margin-top: 23px;
+    float: right;
+}
+nav a {
+    color: #2980b9;
+    text-decoration: none;
+    font-size: 18px;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+nav li {
+    display: inline-block;
+    margin-left: 30px;
+    position: relative;
+    padding-bottom: 10px;
+}
