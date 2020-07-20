@@ -26,25 +26,43 @@ An LMS is a software application used for the administration and tracking of an 
 
 ## 3. Basic Structure
 
-3.1 High Level Domain Model
-![alt text](Diagrams/LMSDomainModel.jpg)
+**3.1 High Level Domain Model**
 
-3.2 Use Case Diagram
-![alt text](Diagrams/LMSUseCaseDiagram.png)
+<p align="center">
+    <img src="Diagrams/LMSDomainModel.jpg" />
+</p>
 
-All diagrams of other use cases can be found in the `Diagrams` folder. Below are the diagrams for the Login use case.
+**3.2 Use Case Diagram**
 
-3.3 Domain Model
-![alt text](Diagrams/DomainModels/img/Login.png)
+<p align="center">
+    <img src="Diagrams/LMSUseCaseDiagram.png" />
+</p>
 
-3.4 System Sequence Diagram
-![alt text](Diagrams/SystemSequenceDiagrams/img/Login.png)
+**Note:** All diagrams of other use cases can be found in the `Diagrams` folder. Below are the diagrams for the Login use case.
 
-3.5 Sequence Diagram
-![alt text](Diagrams/SequenceDiagrams/img/Login.png)
+**3.3 Domain Model**
 
-3.6 Class Diagram
-![alt text](Diagrams/ClassDiagrams/img/Login.png)
+<p align="center">
+    <img src="Diagrams/DomainModels/img/Login.png" />
+</p>
+
+**3.4 System Sequence Diagram**
+
+<p align="center">
+    <img src="Diagrams/SystemSequenceDiagrams/img/Login.png" />
+</p>
+
+**3.5 Sequence Diagram**
+
+<p align="center">
+    <img src="Diagrams/SequenceDiagrams/img/Login.png" />
+</p>
+
+**3.6 Class Diagram**
+
+<p align="center">
+    <img src="Diagrams/ClassDiagrams/img/Login.png" />
+</p>
 
 ## 4. Minimal UI
 
@@ -52,7 +70,9 @@ Other UI images can be found in the `UI` folder. Below is the UI for the Login u
 
 Note: UIs were designed only for specific use cases.
 
-![alt text](UI/img/Login.png)
+<p align="center">
+    <img src="UI/img/Login.png" />
+</p>
 
 # Contributors
 
